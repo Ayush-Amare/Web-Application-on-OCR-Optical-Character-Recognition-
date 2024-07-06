@@ -3,10 +3,10 @@
 This repository contains the source code and documentation for an Optical Character Recognition (OCR) project using EasyOCR. The goal of this project is to extract text from images efficiently and accurately.
 
 # Steps to execute:
-- 1> Install all the provided requirements 
+- Install all the provided requirements 
     "pip install opencv-python easyocr numpy matplotlib streamlit"
-- 2> Open app.py
-- 3> run command : streamlit run app.py
+- Open app.py
+- run command : streamlit run app.py
 - To close the web app go in terminal and click " 'CTRL' + 'c' "
     
 # Introduction
